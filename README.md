@@ -6,6 +6,16 @@ Interactive Power BI dashboard analyzing sales performance, transaction patterns
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](https://i.imgur.com/H8BmqwH.png)
 
+## 🎯 Business Problem
+90.91% of monthly sales target reached (₱5.25M of ₱5.77M) — ₱520K gap to close within the month.
+
+## 💡 Recommended Resolutions
+1. **Bundle & upsell during off-peak hours (11 AM–4 PM)** — pair Croissant/Cheesecake with Americano/Caramel Macchiato
+2. **Day-specific promos for Tuesday & Sunday** — via GCash/Cash
+3. **Reallocate discount budget by ROI** — shift from strong days to low-performing days/hours
+
+**Target impact:** ~₱480K–550K in added sales — enough to close the ₱520K gap.
+
 ## Key Metrics (August)
 - **Sum of Net Sales:** ₱5.25M
 - **Avg Daily Sales:** ₱174.92K
@@ -21,7 +31,7 @@ Interactive Power BI dashboard analyzing sales performance, transaction patterns
 - Interactive slicers for branch, week, day, and category filtering
 
 ## Key Insights
-- Peak sales hours are around 6–7 PM, indicating evening rush
+- Peak sales hours are around 6-7 PM, indicating evening rush
 - Friday posted the highest net sales (₱947.85K); Tuesday and Sunday showed the lowest — opportunity for targeted promos
 - Americano and Caramel Macchiato are the top-performing products
 - GCash is the leading payment method (34.58% of net sales)
