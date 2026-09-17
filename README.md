@@ -37,3 +37,6 @@ Interactive Power BI dashboard analyzing sales performance, transaction patterns
 
 ## Data Source
 Sample/fictional data created for portfolio demonstration purposes.
+
+## 📁 Download the Full Dashboard
+[Download the Power BI file (.pbix)](Average%20Transaction%20Value.pbix) to explore the interactive dashboard yourself in Power BI Desktop.
