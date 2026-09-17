@@ -4,7 +4,7 @@
 Interactive Power BI dashboard analyzing sales performance, transaction patterns, and branch comparison for a coffee shop business — covering the month of August.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://i.imgur.com/H8BmqwH.png)
 
 ## Key Metrics (August)
 - **Sum of Net Sales:** ₱5.25M
