@@ -4,7 +4,7 @@
 Interactive Power BI dashboard analyzing sales performance, transaction patterns, and branch comparison for a coffee shop business — covering the month of August.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://i.imgur.com/H8BmqwH.png)
+![Dashboard Screenshot](https://i.imgur.com/gXJpln2.png)
 
 ## 🎯 Business Problem
 90.91% of monthly sales target reached (₱5.25M of ₱5.77M) — ₱520K gap to close within the month.
