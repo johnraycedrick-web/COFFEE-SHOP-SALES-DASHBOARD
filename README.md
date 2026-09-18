@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales & Branch Performance Dashboard
+# ☕ Coffee Shop Sales & Performance Dashboard
 
 ## Overview
 Interactive Power BI dashboard analyzing sales performance, transaction patterns, and branch comparison for a coffee shop business — covering the month of August.
